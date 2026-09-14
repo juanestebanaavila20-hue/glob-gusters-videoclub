@@ -1,0 +1,3 @@
+-- Base de Datos Relacional -  Glob Gusters Video-Club
+-- Autor: Juan Esteban Alvarado Avila
+-- Fecha: 2024-06-10

@@ -1,3 +1,4 @@
 -- Base de Datos Relacional - Glob-Gusters Video-Club "Gusters": Unknown
 -- Autor: Juan Esteban Alvarado Avila
 -- Fecha: 2024-06-10
+-- Hora: 4:00 pm
